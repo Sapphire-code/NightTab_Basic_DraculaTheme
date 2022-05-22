@@ -119,7 +119,8 @@
         },
         "size": 99,
         "newLine": false,
-        "newTab": false
+        "newTab": false,
+        "string": ""
       },
       "order": [
         "greeting",
@@ -165,7 +166,7 @@
     },
     "toolbar": {
       "location": "corner",
-      "position": "top-left",
+      "position": "bottom-right",
       "size": 100,
       "accent": {
         "show": true
@@ -561,9 +562,7 @@
         "edit": false
       }
     },
-    "search": false,
-    "modal": false,
-    "menu": true
+    "search": false
   },
   "bookmark": [
     {
