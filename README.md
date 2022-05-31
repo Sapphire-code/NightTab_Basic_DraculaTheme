@@ -10,5 +10,3 @@ tutorial:
 
 https://user-images.githubusercontent.com/85494077/171201688-689cbd28-caa1-4c37-b889-d753cbe01205.mp4
 
-https://youtu.be/Ck2HYA8Uojs
-
